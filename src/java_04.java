@@ -19,6 +19,14 @@ public class java_04 {
 		System.out.println(num1);
 //		数字は、intで処理をする
 
+		boolean boo= true;
+		System.out.println(boo);
+//		真偽値は、booleanで処理をする
+		
+		String abc = "山田";
+		System.out.println(abc + "さん");
+
+
 	}
 
 }
